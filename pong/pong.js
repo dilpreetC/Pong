@@ -1,7 +1,9 @@
 var canvas;
 var canvasContext;
+// Ball's x and y coords
 var ballX = 50;
 var ballY = 300;
+// Ball's x and y speeds
 var ballSpeedX = 7;
 var ballSpeedY = 2;
 var player1Y = 210;
